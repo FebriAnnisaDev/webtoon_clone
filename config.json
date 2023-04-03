@@ -1,0 +1,11 @@
+{
+    "openai_key": "",
+    "modules": [
+        "bottom_navigation_bar",
+        "home",
+        "original",
+        "canvas",
+        "favorite",
+        "more"
+    ]
+}
